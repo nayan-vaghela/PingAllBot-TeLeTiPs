@@ -1,0 +1,10 @@
+[project]
+name = "PingAllBot-TeLeTiPs"
+
+[build]
+commands = [
+  "npm install"
+]
+
+[start]
+command = "npm start"
